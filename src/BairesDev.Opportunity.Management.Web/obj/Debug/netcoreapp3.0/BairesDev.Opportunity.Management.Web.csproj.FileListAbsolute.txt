@@ -1,0 +1,16 @@
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\appsettings.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.exe
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.deps.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.runtimeconfig.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.runtimeconfig.dev.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.dll
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\bin\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.pdb
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\obj\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.csprojAssemblyReference.cache
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\obj\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.csproj.CoreCompileInputs.cache
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\obj\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.AssemblyInfoInputs.cache
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\obj\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.AssemblyInfo.cs
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\obj\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.RazorTargetAssemblyInfo.cache
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\obj\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.dll
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\EventsSportsControl_DotNetCore\Management\src\BairesDev.Opportunity.Management.Web\obj\Debug\netcoreapp3.0\BairesDev.Opportunity.Management.Web.pdb

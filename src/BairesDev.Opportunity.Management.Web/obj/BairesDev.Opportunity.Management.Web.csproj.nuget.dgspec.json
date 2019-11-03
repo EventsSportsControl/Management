@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\RICARDO\\OneDrive\\Pessoal\\Profissional\\CODE\\GitHub\\EventsSportsControl_DotNetCore\\Management\\src\\BairesDev.Opportunity.Management.Web\\BairesDev.Opportunity.Management.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\RICARDO\\OneDrive\\Pessoal\\Profissional\\CODE\\GitHub\\EventsSportsControl_DotNetCore\\Management\\src\\BairesDev.Opportunity.Management.Web\\BairesDev.Opportunity.Management.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RICARDO\\OneDrive\\Pessoal\\Profissional\\CODE\\GitHub\\EventsSportsControl_DotNetCore\\Management\\src\\BairesDev.Opportunity.Management.Web\\BairesDev.Opportunity.Management.Web.csproj",
+        "projectName": "BairesDev.Opportunity.Management.Web",
+        "projectPath": "D:\\RICARDO\\OneDrive\\Pessoal\\Profissional\\CODE\\GitHub\\EventsSportsControl_DotNetCore\\Management\\src\\BairesDev.Opportunity.Management.Web\\BairesDev.Opportunity.Management.Web.csproj",
+        "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
+        "outputPath": "D:\\RICARDO\\OneDrive\\Pessoal\\Profissional\\CODE\\GitHub\\EventsSportsControl_DotNetCore\\Management\\src\\BairesDev.Opportunity.Management.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Ricardo\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.AspNetCore.App",
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    }
+  }
+}
