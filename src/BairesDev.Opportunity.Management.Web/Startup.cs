@@ -16,7 +16,7 @@ namespace BairesDev.Opportunity.Management.Web
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            MvcOptions.EnableEndpointRounting = false;
+            MvcOptions.EnableEndpointRouting = false;
             services.AddMvc();
         }
 
@@ -30,14 +30,6 @@ namespace BairesDev.Opportunity.Management.Web
 
             app.UseRouting();
             app.UseMvc();
-
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!");
-                });
-            });
         }
     }
 }
